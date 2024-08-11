@@ -1,4 +1,3 @@
-from pytube import YouTube
 from sys import argv
 import PyPDF2
 import sys
